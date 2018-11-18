@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxJava2Demo</string>
+    <string name="btn">点击显示图片</string>
+</resources>
